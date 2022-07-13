@@ -1,9 +1,9 @@
-# Welcome, 歡迎, Bienvenido, Bienvenue
+#
 <div align="center">
   <a href="https://github.com/Xunhor">
   <!-- add width="48%" nos conteiner -->
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Xunhor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xunhor&layout=compact&langs_count=7&theme=dark"/>
+  <img height="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Xunhor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xunhor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Languages and Tools:
@@ -15,4 +15,3 @@
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
-
