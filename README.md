@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Xunhor">
   <!-- add width="48%" nos conteiner -->
-  <img height="" width="100%" src="https://github-readme-stats.vercel.app/api?username=Xunhor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="" width="50%" src="https://github-readme-stats.vercel.app/api?username=Xunhor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xunhor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
