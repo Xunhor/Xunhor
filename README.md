@@ -1,21 +1,21 @@
+## Hello World :coffee:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- 
   Rui, ou mais conhecido como Xunhor, é um entusiasta por programação e defensor de <strong> código livre</strong>.<br>
   Estudante de desenvolvimento front-end.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong> HTML -  CSS -  JavaScript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong> Git.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 <strong>Caso queira acompanhar meus conteúdos:</strong> ⤵️
 </p>
 
 <p align="left">
