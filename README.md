@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="https://outlook.live.com/mail/0/" alt="Gmail">
+  <a href="mailto:juniorcn2@hotmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
   <a href="https://www.linkedin.com/in/rui-silva-s/" alt="Linkedin" >
