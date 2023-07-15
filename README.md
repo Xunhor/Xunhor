@@ -1,21 +1,12 @@
-## Hello World :coffee:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+## Cloud Computing ☁️
+<img src="https://images.credly.com/size/680x680/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-  Rui, ou mais conhecido como Xunhor, é um entusiasta por programação e defensor de <strong> código livre</strong>.<br>
-  Estudante de desenvolvimento front-end.
+<p align="left">
+  Como aspirante a Cloud Engineer, estou começando minha jornada na AWS, com conhecimentos em Linux, Docker e controle de versão usando Git e GitHub. Estou animado para expandir meu aprendizado nessas áreas e construir uma base sólida para enfrentar os desafios da nuvem e DevOps. Estou comprometido em aprimorar minhas habilidades e buscar certificações relevantes para impulsionar minha carreira nesse campo em crescimento constante.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> HTML -  CSS -  JavaScript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong> Git.</strong>
-</p>
-
-<p align="left">
-  💌 <strong>Caso queira entrar em contato:</strong> ⤵️
+  💌 <strong>Caso queira entrar em contato:</strong> ⤵︎
 </p>
 
 <p align="left">
@@ -24,15 +15,22 @@
 
   <a href="https://www.linkedin.com/in/rui-silva-s/" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rui-silva-s/" /></a>
-
-  <!-- <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  -->
-  <!--
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-  -->
-</p>  
+  
+<br>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
