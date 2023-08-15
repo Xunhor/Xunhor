@@ -1,5 +1,5 @@
 ## Cloud Computing ☁️
-<img src="https://images.credly.com/size/680x680/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
   Como aspirante a Cloud Engineer, estou começando minha jornada na AWS, com conhecimentos em Linux, Docker e controle de versão usando Git e GitHub. Estou animado para expandir meu aprendizado nessas áreas e construir uma base sólida para enfrentar os desafios da nuvem e DevOps. Estou comprometido em aprimorar minhas habilidades e buscar certificações relevantes para impulsionar minha carreira nesse campo em crescimento constante.
