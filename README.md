@@ -1,6 +1,6 @@
 ### Hey, I'm Rui! 👋🏽  
 
-I'm a DevOps/Cloud enthusiast based in Brazil, passionate about optimizing and automating development processes.
+I'm a DevOps/Cloud enthusiast living in Brazil, passionate about optimizing and automating development processes.
 
 - Explore my **GitHub Repositories** to discover more about my projects and contributions.
 - Check out [VSCode Configuration](https://github.com/Xunhor/my-settings-vscode) for development optimization.
